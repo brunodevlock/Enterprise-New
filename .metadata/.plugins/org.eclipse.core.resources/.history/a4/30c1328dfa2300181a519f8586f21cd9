@@ -1,0 +1,9 @@
+package br.com.fiap.jpa.singleton;
+
+public class EntityManagerFactorySingleton {
+	
+	//1- Construtor privado
+	//2- Método publico estatico
+	//3- Atributo privado estatico unico
+
+}

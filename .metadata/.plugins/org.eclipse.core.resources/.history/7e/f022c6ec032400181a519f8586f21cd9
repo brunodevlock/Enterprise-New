@@ -1,0 +1,7 @@
+package br.com.fiap.jpa.dao;
+
+import br.com.fiap.jpa.entity.Sorvete;
+
+public interface FornecedorDAO extends GenericDAO<Sorvete, Integer>{
+
+}

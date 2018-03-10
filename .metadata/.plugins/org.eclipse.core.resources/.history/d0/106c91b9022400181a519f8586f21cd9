@@ -1,0 +1,25 @@
+package br.com.fiap.jpa.entity;
+
+
+
+@Entity
+@Table(name="T_FORNECEDOR")
+
+public class Fornecedor {
+	
+	private String cnpj;
+	
+	private String nome;
+
+	public Fornecedor(String cnpj, String nome) {
+		super();
+		this.cnpj = cnpj;
+		this.nome = nome;
+	}
+	
+	
+	public Fornecedor{
+		
+	}
+
+}

@@ -1,0 +1,52 @@
+package br.com.fiap.jpa.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.SequenceGenerator;
+import javax.persistence.Table;
+
+public class Sorvete {
+	
+	@Entity
+	@Table(name = "T_SORVETE")
+	@SequenceGenerator(name = "sorvete", sequenceName="SQ_T_SORVETE")
+	
+	private int codigo;
+	
+	private String sabor;
+	
+	private double preco;
+
+	public Sorvete(int codigo, String sabor, double preco) {
+		super();
+		this.codigo = codigo;
+		this.sabor = sabor;
+		this.preco = preco;
+	}
+
+	public int getCodigo() {
+		return codigo;
+	}
+
+	public void setCodigo(int codigo) {
+		this.codigo = codigo;
+	}
+
+	public String getSabor() {
+		return sabor;
+	}
+
+	public void setSabor(String sabor) {
+		this.sabor = sabor;
+	}
+
+	public double getPreco() {
+		return preco;
+	}
+
+	public void setPreco(double preco) {
+		this.preco = preco;
+	}
+	
+	
+
+}

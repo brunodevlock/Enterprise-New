@@ -1,0 +1,10 @@
+package br.com.fiap.jpa.dao;
+
+public interface GenericDAO <T, K>{
+
+	void create(T entity);  // o tipo do parametro é T Generico
+	void update(T entity);
+	void delete(K id);
+	
+	
+}

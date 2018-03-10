@@ -1,0 +1,32 @@
+package br.com.fiap.jpa.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="T_FORNECEDOR")
+
+public class Fornecedor {
+	
+	
+	
+	@Id
+	@Column(name="nr_cnpj")
+	private String cnpj;
+	
+	
+	@Column(name="nm_fornecedor", nullable=false)
+	private String nome;
+
+	public Fornecedor(String cnpj, String nome) {
+		super();
+		this.cnpj = cnpj;
+		this.nome = nome;
+	}
+	
+	
+	public Fornecedor() {
+		
+	}
+
+}

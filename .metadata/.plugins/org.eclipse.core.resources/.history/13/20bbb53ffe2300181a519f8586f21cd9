@@ -1,0 +1,52 @@
+package br.com.fiap.jpa.dao.impl;
+
+import javax.persistence.EntityManager;
+
+import br.com.fiap.jpa.dao.GenericDAO;
+import br.com.fiap.jpa.exception.CommitException;
+import br.com.fiap.jpa.exception.KeyNotFoundException;
+
+public class GenericDAOImpl <T, K>
+					implements GenericDAO<T, K>{
+	
+	
+	private EntityManager em;
+	
+	public GenericDAOImpl(EntityManager em) {
+		this.em = em;
+	}
+	
+
+	@Override
+	public void create(T entity) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public T read(K id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void update(T entity) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void delete(K id) throws KeyNotFoundException {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void commit() throws CommitException {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+
+}

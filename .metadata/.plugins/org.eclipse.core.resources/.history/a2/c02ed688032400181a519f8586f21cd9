@@ -1,0 +1,9 @@
+package br.com.fiap.jpa.dao.impl;
+
+import br.com.fiap.jpa.dao.SorveteDAO;
+
+public class SorveteDAOImpl 
+				extends GenericDAOImpl<Sorvete, Integer>	
+				implements SorveteDAO{
+
+}

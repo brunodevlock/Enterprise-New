@@ -1,0 +1,11 @@
+package br.com.fiap.jpa.entity;
+
+public class Sorvete {
+	
+	private int codigo;
+	
+	private String sabor;
+	
+	private double preco;
+
+}
