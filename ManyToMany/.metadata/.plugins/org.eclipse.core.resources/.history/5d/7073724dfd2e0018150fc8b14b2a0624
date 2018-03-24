@@ -1,0 +1,13 @@
+package br.com.fiap.jpa.entity;
+
+public class Imposto {
+	
+	private int codigo;
+	
+	private double valor;
+	
+	private String nome;
+	
+	
+
+}
