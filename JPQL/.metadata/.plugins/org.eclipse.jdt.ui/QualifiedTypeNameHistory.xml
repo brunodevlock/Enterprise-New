@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="br.com.fiap.dao.ClienteDAO"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.impl.ClienteDAOImpl"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.impl.PacoteDAOImpl"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.PacoteDAO"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.ReservaDAO"/>
+<fullyQualifiedTypeName name="br.com.fiap.dao.impl.ReservaDAOImpl"/>
+<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+</qualifiedTypeNameHistroy>
