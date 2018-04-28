@@ -1,0 +1,12 @@
+package br.com.fiap.jpa.dao.impl;
+
+import javax.persistence.EntityManager;
+
+public class PessoaDAOImpl extends GenericDAOImpl <T,K> {
+
+	public PessoaDAOImpl(EntityManager em) {
+		super(em);
+		// TODO Auto-generated constructor stub
+	}
+
+}

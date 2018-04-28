@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.persistence.SecondaryTable"/>
+<fullyQualifiedTypeName name="javax.persistence.SequenceGenerator"/>
+<fullyQualifiedTypeName name="org.hibernate.annotations.Table"/>
+<fullyQualifiedTypeName name="org.hibernate.annotations.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.persistence.GenerationType"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="javax.persistence.Temporal"/>
+<fullyQualifiedTypeName name="javax.persistence.Column"/>
+<fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
+<fullyQualifiedTypeName name="br.com.fiap.jpa.singleton.EntityManagerFactorySingleton"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="br.com.fiap.jpa.entity.PessoaJuridica"/>
+<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="br.com.fiap.jpa.dao.impl.PessoaDAOImpl"/>
+<fullyQualifiedTypeName name="br.com.fiap.jpa.entity.Pessoa"/>
+<fullyQualifiedTypeName name="br.com.fiap.jpa.entity.PessoaFisica"/>
+<fullyQualifiedTypeName name="br.com.fiap.jpa.dao.PessoaDAO"/>
+<fullyQualifiedTypeName name="br.com.fiap.jpa.exception.CommitException"/>
+<fullyQualifiedTypeName name="javax.persistence.Inheritance"/>
+<fullyQualifiedTypeName name="javax.persistence.Table"/>
+<fullyQualifiedTypeName name="javax.persistence.DiscriminatorValue"/>
+<fullyQualifiedTypeName name="javax.persistence.DiscriminatorColumn"/>
+</qualifiedTypeNameHistroy>

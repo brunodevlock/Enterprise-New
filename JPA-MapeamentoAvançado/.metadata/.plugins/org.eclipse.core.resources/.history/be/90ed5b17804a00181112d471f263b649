@@ -1,0 +1,13 @@
+package br.com.fiap.jpa.entity;
+
+import java.util.Calendar;
+
+public class PessoaJuridica extends Pessoa{
+	
+	private String cnpj;
+	
+	private Calendar dataFundacao;
+	
+	
+
+}

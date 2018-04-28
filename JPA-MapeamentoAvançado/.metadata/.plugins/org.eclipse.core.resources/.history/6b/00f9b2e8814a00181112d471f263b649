@@ -1,0 +1,16 @@
+package br.com.fiap.jpa.teste;
+
+import javax.persistence.EntityManagerFactory;
+
+public class HerancaTeste {
+	
+	public static void main(String[] args) {
+		
+		//Cadastrar uma pessoa, pf e pj
+		EntityManagerFactory fabrica = EntityManagerFactorySingleton;
+		Entitymanager em = fabrica.createEntityManager();
+		
+		
+	}
+
+}

@@ -1,0 +1,326 @@
+2018-04-27 21:16:27,202 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-04-27 21:18:52,113 [Worker-22] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: 08-JPA-MapeamentoAvancado:08-JPA-MapeamentoAvancado:0.0.1-SNAPSHOT @ D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\pom.xml.
+2018-04-27 21:18:53,935 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:18:53,936 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:18:53,938 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:18:53,939 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:18:55,220 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:18:55,221 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:18:55,223 [Worker-25] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:18:55,224 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:25:36,041 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:25:36,042 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:25:36,043 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:25:36,044 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:27:00,482 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:27:00,483 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:27:00,484 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:27:00,485 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:28:23,608 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:28:23,609 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:28:23,610 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:28:23,610 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:28:55,228 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:28:55,230 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:28:55,231 [Worker-33] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:28:55,232 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:29:09,231 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:29:09,232 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:29:09,232 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:29:09,233 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:30:09,317 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:30:09,318 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:30:09,320 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:30:09,321 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:31:02,399 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:31:02,400 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:31:02,401 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:31:02,402 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:31:30,168 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:31:30,169 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:31:30,170 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:31:30,170 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:32:20,711 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:32:20,712 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:32:20,713 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:32:20,713 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:33:29,706 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:33:29,707 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:33:29,709 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:33:29,710 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:34:16,045 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:34:16,046 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:34:16,048 [Worker-27] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:34:16,049 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:52:31,429 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:52:31,429 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:52:31,430 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:52:31,431 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:53:01,202 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:53:01,203 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:53:01,204 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:53:01,205 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:54:10,412 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:54:10,413 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:54:10,414 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:54:10,415 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:55:30,412 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:55:30,413 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:55:30,414 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:55:30,415 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:55:57,885 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:55:57,886 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:55:57,887 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:55:57,888 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:56:43,286 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:56:43,287 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:56:43,288 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:56:43,288 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:56:49,071 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:56:49,072 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:56:49,073 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:56:49,073 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:57:24,469 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:57:24,470 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:57:24,471 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:57:24,471 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:57:29,749 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:57:29,750 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:57:29,750 [Worker-46] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:57:29,751 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:57:43,928 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:57:43,930 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:57:43,931 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:57:43,932 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:58:12,105 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:58:12,105 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:58:12,107 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:58:12,108 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:58:42,216 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:58:42,216 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:58:42,217 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:58:42,218 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:58:51,521 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:58:51,522 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:58:51,524 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:58:51,524 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:59:10,065 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:59:10,066 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:59:10,067 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:59:10,067 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:59:51,667 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:59:51,668 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:59:51,670 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:59:51,670 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 21:59:54,648 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:59:54,649 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 21:59:54,650 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 21:59:54,650 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:00:04,631 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:00:04,632 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:00:04,632 [Worker-41] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:00:04,633 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:02:30,458 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:02:30,458 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:02:30,459 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:02:30,460 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:02:47,453 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:02:47,454 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:02:47,455 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:02:47,456 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:02:55,060 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:02:55,061 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:02:55,062 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:02:55,062 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:03:13,442 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:03:13,443 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:03:13,444 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:03:13,444 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:03:28,886 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:03:28,887 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:03:28,887 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:03:28,888 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:03:45,141 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:03:45,141 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:03:45,142 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:03:45,142 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:04:11,907 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:04:11,909 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:04:11,910 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:04:11,910 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:04:16,030 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:04:16,030 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:04:16,031 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:04:16,032 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:04:24,487 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:04:24,488 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:04:24,488 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:04:24,489 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:05:47,812 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:05:47,813 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:05:47,814 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:05:47,814 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:06:06,415 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:06:06,416 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:06:06,417 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:06:06,417 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:06:28,410 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:06:28,411 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:06:28,412 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:06:28,412 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:06:34,739 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:06:34,739 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:06:34,740 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:06:34,740 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:06:37,294 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:06:37,294 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:06:37,295 [Worker-50] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:06:37,296 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:06:46,278 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:06:46,279 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:06:46,280 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:06:46,281 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:08:00,840 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:08:00,840 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:08:00,841 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:08:00,841 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:08:10,159 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:08:10,159 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:08:10,159 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:08:10,159 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:08:19,972 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:08:19,972 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:08:19,972 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:08:19,972 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:08:24,972 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:08:24,972 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:08:24,972 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:08:24,972 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:09:02,842 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:09:02,842 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:09:02,842 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:09:02,842 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:09:28,781 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:09:28,781 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:09:28,781 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:09:28,781 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:10:41,103 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:10:41,103 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:10:41,103 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:10:41,103 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:11:17,681 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:11:17,681 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:11:17,681 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:11:17,681 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:12:32,094 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:12:32,094 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:12:32,094 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:12:32,094 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:12:38,391 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:12:38,391 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:12:38,391 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:12:38,391 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:13:00,610 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:13:00,610 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:13:00,610 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:13:00,610 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:13:08,517 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:13:08,517 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:13:08,517 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:13:08,517 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:13:31,079 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:13:31,079 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:13:31,079 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:13:31,079 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:13:50,606 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:13:50,606 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:13:50,606 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:13:50,606 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:17:11,838 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:17:11,838 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:17:11,838 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:17:11,838 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:17:25,212 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:17:25,212 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:17:25,212 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:17:25,212 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:17:54,522 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:17:54,522 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:17:54,522 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:17:54,522 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:18:40,817 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:18:40,817 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:18:40,817 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:18:40,817 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:18:43,720 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:18:43,720 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:18:43,720 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:18:43,720 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:23:28,238 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:23:28,238 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:23:28,253 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:23:28,253 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:24:16,021 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:24:16,021 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:24:16,021 [Worker-56] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:24:16,021 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:25:19,959 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:25:19,959 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:25:19,959 [Worker-63] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:25:19,959 [Worker-63] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:25:26,631 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:25:26,631 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:25:26,631 [Worker-65] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:25:26,631 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:25:57,457 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:25:57,457 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:25:57,457 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:25:57,457 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:26:25,344 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:26:25,344 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:26:25,344 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:26:25,344 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:26:42,032 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:26:42,032 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:26:42,032 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:26:42,032 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:28:14,436 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:28:14,436 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:28:14,436 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:28:14,436 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:30:06,691 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:30:06,691 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:30:06,691 [Worker-62] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:30:06,691 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:30:57,975 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:30:57,975 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:30:57,975 [Worker-66] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:30:57,975 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:31:12,475 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:31:12,475 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:31:12,475 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:31:12,475 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:31:22,585 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:31:22,585 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:31:22,585 [Worker-68] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:31:22,585 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:33:39,445 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:33:39,445 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:33:39,445 [Worker-71] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:33:39,445 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:34:01,243 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:34:01,243 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:34:01,243 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:34:01,243 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:34:05,439 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:34:05,439 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:34:05,439 [Worker-73] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:34:05,455 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:34:32,689 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:34:32,689 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:34:32,689 [Worker-64] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:34:32,689 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
+2018-04-27 22:34:41,150 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:34:41,150 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\main\resources
+2018-04-27 22:34:41,150 [Worker-74] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-04-27 22:34:41,150 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\JPA-MapeamentoAvançado\08-JPA-MapeamentoAvancado\src\test\resources
