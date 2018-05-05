@@ -1,0 +1,42 @@
+package br.com.fiap.bean;
+
+import javax.ejb.EJB;
+
+import br.com.fiap.bo.CambioBO;
+import br.com.fiap.bo.ConversaoBO;
+
+public class CambioBean {
+	
+	private double valor;
+	
+	private doble valorTotal;
+	
+	@EJB
+	private CambioBO bo;
+	
+	
+	public void converter() {
+		resultado = bo.converterDolarReal(valor);
+	}
+	
+	
+
+	public double getValor() {
+		return valor;
+	}
+
+	public void setValor(double valor) {
+		this.valor = valor;
+	}
+
+	public doble getValorTotal() {
+		return valorTotal;
+	}
+
+	public void setValorTotal(doble valorTotal) {
+		this.valorTotal = valorTotal;
+	}
+	
+	
+
+}

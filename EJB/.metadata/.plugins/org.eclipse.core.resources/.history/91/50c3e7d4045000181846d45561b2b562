@@ -1,0 +1,25 @@
+package br.com.fiap.bo.impl;
+
+import br.com.fiap.bo.ContadorBO;
+
+public class ContadorBOImpl implements ContadorBO{
+	
+	
+	private int total;
+	
+
+	@Override
+	public void incrementar() {
+
+		total++;
+	}
+
+	@Override
+	public int verTotal() {
+		
+		return total;
+	}
+	
+	
+
+}

@@ -1,0 +1,11 @@
+package br.com.fiap.bo;
+
+public interface CambioBO {
+	
+	void adicionarDolar(double valor);
+	
+	double verTotal();
+	
+	
+
+}

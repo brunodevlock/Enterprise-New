@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="javax.ejb.Remote"/>
+<fullyQualifiedTypeName name="javax.ejb.Stateless"/>
+<fullyQualifiedTypeName name="br.com.fiap.bo.ConversaoBO"/>
+<fullyQualifiedTypeName name="javax.ejb.Stateful"/>
+<fullyQualifiedTypeName name="br.com.fiap.bo.CambioBO"/>
+<fullyQualifiedTypeName name="javax.faces.bean.SessionScoped"/>
+<fullyQualifiedTypeName name="javax.ejb.Local"/>
+<fullyQualifiedTypeName name="javax.ejb.Singleton"/>
+<fullyQualifiedTypeName name="br.com.fiap.bo.ContadorBO"/>
+<fullyQualifiedTypeName name="javax.ejb.EJB"/>
+<fullyQualifiedTypeName name="javax.faces.bean.ManagedBean"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,10 @@
+package br.com.fiap.bo;
+
+
+public interface ContadorBO {
+	
+	void incrementar();
+	
+	int verTotal();
+
+}

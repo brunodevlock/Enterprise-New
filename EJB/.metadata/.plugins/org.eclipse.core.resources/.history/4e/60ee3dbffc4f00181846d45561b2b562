@@ -1,0 +1,11 @@
+package br.com.fiap.bo;
+
+
+
+public interface ConversaoBO {
+	
+	double converterDolarReal(double dolar);
+	
+	
+
+}
